@@ -1,2 +1,2 @@
 # Unity-Platformer-Game-Enter-the-Complex-
-The 2D game im working on currently.
+I'll upload the files in mid September, still working on the game...
